@@ -24,18 +24,6 @@ import Monte_Carlo_simulations.py
 
 
     
-![png](output_2_1.png)
+![png](output.png)
     
-
-
-
-    ---------------------------------------------------------------------------
-
-    ModuleNotFoundError                       Traceback (most recent call last)
-
-    <ipython-input-8-e5716d77323f> in <module>
-    ----> 1 import Monte_Carlo_simulations.py
-    
-
-    ModuleNotFoundError: No module named 'Monte_Carlo_simulations.py'; 'Monte_Carlo_simulations' is not a package
 
