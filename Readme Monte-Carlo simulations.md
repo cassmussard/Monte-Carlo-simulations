@@ -24,6 +24,6 @@ import Monte_Carlo_simulations.py
 
 
     
-![png](output.png)
+![png](graphic.png)
     
 
